@@ -11,3 +11,9 @@
 ## kaggle
  # Technologies Used
  ## python, pandas ,Numpy, Matplotlib, Seaborn , jupyterNotebook
+# Project Workflow
+## Data loading & overview
+## Data cleaning & preprocessing
+## Exploratory analysis(visuals,distributions)
+## Anomly & issue detection
+## Insights & conclusions
