@@ -9,3 +9,5 @@
 
 # Dataset
 ## kaggle
+ # Technologies Used
+ ## python, pandas ,Numpy, Matplotlib, Seaborn , jupyterNotebook
