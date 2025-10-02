@@ -17,3 +17,6 @@
  Exploratory analysis(visuals,distributions)
  Anomly & issue detection
  Insights & conclusions
+
+ # Results/Insights
+ Key findings about trends,anomalies
