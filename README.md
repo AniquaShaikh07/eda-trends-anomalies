@@ -10,7 +10,7 @@
 # Dataset
 ## kaggle
  # Technologies Used
- ## python, pandas ,Numpy, Matplotlib, Seaborn , jupyterNotebook
+  python, pandas ,Numpy, Matplotlib, Seaborn , jupyterNotebook
 # Project Workflow
  Data loading & overview
  Data cleaning & preprocessing
